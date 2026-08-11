@@ -1,0 +1,1839 @@
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:44:24] "GET /status/marketplaces/ HTTP/1.1" 200 645
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:44:26] "GET /status/marketplaces/ HTTP/1.1" 200 645
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:44:28] "GET /status/marketplaces/ HTTP/1.1" 200 645
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:44:31] "GET /status/marketplaces/ HTTP/1.1" 200 645
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:44:34] "GET /status/marketplaces/ HTTP/1.1" 200 645
+[07/Apr/2026 15:44:34] "POST /predict/ HTTP/1.1" 200 137
+[07/Apr/2026 15:44:34] "GET /health/ HTTP/1.1" 200 56
+[07/Apr/2026 15:44:34,708] - Broken pipe from ('127.0.0.1', 60522)
+[07/Apr/2026 15:44:34,709] - Broken pipe from ('127.0.0.1', 60521)
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:44:37] "GET /status/marketplaces/ HTTP/1.1" 200 645
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:44:40] "GET /status/marketplaces/ HTTP/1.1" 200 645
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:44:43] "GET /status/marketplaces/ HTTP/1.1" 200 645
+[07/Apr/2026 15:44:46] "GET /health/ HTTP/1.1" 200 56
+[07/Apr/2026 15:44:46] "GET /health/ HTTP/1.1" 200 56
+[07/Apr/2026 15:44:46] "GET /dataset/ HTTP/1.1" 200 556
+[07/Apr/2026 15:44:46] "GET /dataset/ HTTP/1.1" 200 556
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:44:46] "GET /status/marketplaces/ HTTP/1.1" 200 645
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:44:46] "GET /status/marketplaces/ HTTP/1.1" 200 645
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:44:49] "GET /status/marketplaces/ HTTP/1.1" 200 645
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:44:52] "GET /status/marketplaces/ HTTP/1.1" 200 645
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:44:55] "GET /status/marketplaces/ HTTP/1.1" 200 645
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:44:58] "GET /status/marketplaces/ HTTP/1.1" 200 645
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:45:01] "GET /status/marketplaces/ HTTP/1.1" 200 645
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:45:04] "GET /status/marketplaces/ HTTP/1.1" 200 645
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:45:07] "GET /status/marketplaces/ HTTP/1.1" 200 645
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:45:10] "GET /status/marketplaces/ HTTP/1.1" 200 645
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:45:13] "GET /status/marketplaces/ HTTP/1.1" 200 645
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:45:16] "GET /status/marketplaces/ HTTP/1.1" 200 645
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:45:19] "GET /status/marketplaces/ HTTP/1.1" 200 645
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:45:22] "GET /status/marketplaces/ HTTP/1.1" 200 645
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:45:25] "GET /status/marketplaces/ HTTP/1.1" 200 645
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:45:28] "GET /status/marketplaces/ HTTP/1.1" 200 645
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:45:31] "GET /status/marketplaces/ HTTP/1.1" 200 645
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:45:34] "GET /status/marketplaces/ HTTP/1.1" 200 645
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:45:37] "GET /status/marketplaces/ HTTP/1.1" 200 645
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:45:40] "GET /status/marketplaces/ HTTP/1.1" 200 645
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:45:43] "GET /status/marketplaces/ HTTP/1.1" 200 645
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:45:46] "GET /status/marketplaces/ HTTP/1.1" 200 645
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:45:49] "GET /status/marketplaces/ HTTP/1.1" 200 645
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:45:52] "GET /status/marketplaces/ HTTP/1.1" 200 645
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:45:55] "GET /status/marketplaces/ HTTP/1.1" 200 645
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:45:58] "GET /status/marketplaces/ HTTP/1.1" 200 645
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:46:01] "GET /status/marketplaces/ HTTP/1.1" 200 645
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:46:04] "GET /status/marketplaces/ HTTP/1.1" 200 645
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:46:07] "GET /status/marketplaces/ HTTP/1.1" 200 645
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:46:10] "GET /status/marketplaces/ HTTP/1.1" 200 645
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:46:13] "GET /status/marketplaces/ HTTP/1.1" 200 645
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:46:16] "GET /status/marketplaces/ HTTP/1.1" 200 645
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:46:19] "GET /status/marketplaces/ HTTP/1.1" 200 645
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:46:22] "GET /status/marketplaces/ HTTP/1.1" 200 645
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:46:25] "GET /status/marketplaces/ HTTP/1.1" 200 645
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:46:28] "GET /status/marketplaces/ HTTP/1.1" 200 645
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:46:31] "GET /status/marketplaces/ HTTP/1.1" 200 645
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:46:34] "GET /status/marketplaces/ HTTP/1.1" 200 645
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:46:37] "GET /status/marketplaces/ HTTP/1.1" 200 645
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:46:40] "GET /status/marketplaces/ HTTP/1.1" 200 645
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:46:43] "POST /predict/ HTTP/1.1" 200 137
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:46:43] "POST /predict/marketplace/ HTTP/1.1" 201 322
+[07/Apr/2026 15:46:43] "POST /predict/marketplace/ HTTP/1.1" 201 318
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:46:43] "GET /status/marketplaces/ HTTP/1.1" 200 649
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:46:43] "GET /status/marketplaces/ HTTP/1.1" 200 649
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:46:46] "GET /status/marketplaces/ HTTP/1.1" 200 649
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:46:49] "GET /status/marketplaces/ HTTP/1.1" 200 649
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:46:52] "GET /status/marketplaces/ HTTP/1.1" 200 649
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:46:55] "GET /status/marketplaces/ HTTP/1.1" 200 649
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:46:58] "GET /status/marketplaces/ HTTP/1.1" 200 649
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:47:01] "GET /status/marketplaces/ HTTP/1.1" 200 649
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:47:04] "GET /status/marketplaces/ HTTP/1.1" 200 649
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:47:07] "GET /status/marketplaces/ HTTP/1.1" 200 649
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:47:10] "GET /status/marketplaces/ HTTP/1.1" 200 649
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:47:13] "GET /status/marketplaces/ HTTP/1.1" 200 649
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:47:16] "GET /status/marketplaces/ HTTP/1.1" 200 649
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:47:19] "GET /status/marketplaces/ HTTP/1.1" 200 649
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:47:22] "GET /status/marketplaces/ HTTP/1.1" 200 649
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:47:25] "GET /status/marketplaces/ HTTP/1.1" 200 649
+[07/Apr/2026 15:47:28] "GET /health/ HTTP/1.1" 200 56
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:47:28] "GET /status/marketplaces/ HTTP/1.1" 200 649
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:47:32] "GET /status/marketplaces/ HTTP/1.1" 200 649
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:47:35] "GET /status/marketplaces/ HTTP/1.1" 200 649
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:47:38] "GET /status/marketplaces/ HTTP/1.1" 200 649
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:47:41] "GET /status/marketplaces/ HTTP/1.1" 200 649
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:47:44] "GET /status/marketplaces/ HTTP/1.1" 200 649
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:47:46] "GET /status/marketplaces/ HTTP/1.1" 200 649
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:47:49] "GET /status/marketplaces/ HTTP/1.1" 200 649
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:47:52] "GET /status/marketplaces/ HTTP/1.1" 200 649
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:47:55] "GET /status/marketplaces/ HTTP/1.1" 200 649
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:47:58] "GET /status/marketplaces/ HTTP/1.1" 200 649
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:48:01] "GET /status/marketplaces/ HTTP/1.1" 200 649
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:48:05] "GET /status/marketplaces/ HTTP/1.1" 200 649
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:48:08] "GET /status/marketplaces/ HTTP/1.1" 200 649
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:48:11] "GET /status/marketplaces/ HTTP/1.1" 200 649
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:48:14] "GET /status/marketplaces/ HTTP/1.1" 200 649
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:48:17] "GET /status/marketplaces/ HTTP/1.1" 200 649
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:48:20] "GET /status/marketplaces/ HTTP/1.1" 200 649
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:48:23] "GET /status/marketplaces/ HTTP/1.1" 200 649
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:48:26] "GET /status/marketplaces/ HTTP/1.1" 200 649
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:48:28] "POST /predict/ HTTP/1.1" 200 136
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:48:28] "POST /predict/ HTTP/1.1" 200 136
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:48:28] "POST /predict/ HTTP/1.1" 200 137
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:48:28] "POST /predict/ HTTP/1.1" 200 137
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:48:28] "POST /predict/ HTTP/1.1" 200 137
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:48:28] "POST /predict/ HTTP/1.1" 200 137
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:48:28] "POST /predict/ HTTP/1.1" 200 137
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:48:28] "POST /predict/ HTTP/1.1" 200 137
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:48:28] "POST /predict/ HTTP/1.1" 200 136
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:48:28] "POST /predict/ HTTP/1.1" 200 137
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:48:29] "POST /predict/ HTTP/1.1" 200 137
+[07/Apr/2026 15:48:29,128] - Broken pipe from ('127.0.0.1', 63252)
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:48:29] "GET /status/marketplaces/ HTTP/1.1" 200 649
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:48:32] "GET /status/marketplaces/ HTTP/1.1" 200 649
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:48:35] "GET /status/marketplaces/ HTTP/1.1" 200 649
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:48:38] "GET /status/marketplaces/ HTTP/1.1" 200 649
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:48:41] "GET /status/marketplaces/ HTTP/1.1" 200 649
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:48:44] "GET /status/marketplaces/ HTTP/1.1" 200 649
+[07/Apr/2026 15:48:45] "GET /health/ HTTP/1.1" 200 56
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:48:45] "GET /status/marketplaces/ HTTP/1.1" 200 649
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:48:49] "GET /status/marketplaces/ HTTP/1.1" 200 649
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:48:52] "GET /status/marketplaces/ HTTP/1.1" 200 649
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:48:55] "GET /status/marketplaces/ HTTP/1.1" 200 649
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:48:58] "GET /status/marketplaces/ HTTP/1.1" 200 649
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:49:01] "GET /status/marketplaces/ HTTP/1.1" 200 649
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:49:19] "GET /status/marketplaces/ HTTP/1.1" 200 649
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:49:21] "GET /status/marketplaces/ HTTP/1.1" 200 649
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:49:24] "GET /status/marketplaces/ HTTP/1.1" 200 649
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:49:27] "GET /status/marketplaces/ HTTP/1.1" 200 649
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:49:30] "GET /status/marketplaces/ HTTP/1.1" 200 649
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:49:33] "GET /status/marketplaces/ HTTP/1.1" 200 649
+[07/Apr/2026 15:49:35] "GET /health/ HTTP/1.1" 200 56
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:49:35] "GET /status/marketplaces/ HTTP/1.1" 200 649
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:49:38] "GET /status/marketplaces/ HTTP/1.1" 200 649
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:49:42] "GET /status/marketplaces/ HTTP/1.1" 200 649
+[07/Apr/2026 15:49:43] "GET /health/ HTTP/1.1" 200 56
+[07/Apr/2026 15:49:43] "GET /health/ HTTP/1.1" 200 56
+[07/Apr/2026 15:49:43] "GET /dataset/ HTTP/1.1" 200 556
+[07/Apr/2026 15:49:44] "GET /dataset/ HTTP/1.1" 200 556
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:49:44] "GET /status/marketplaces/ HTTP/1.1" 200 649
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:49:44] "GET /status/marketplaces/ HTTP/1.1" 200 649
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:49:47] "GET /status/marketplaces/ HTTP/1.1" 200 649
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:49:49] "GET /status/marketplaces/ HTTP/1.1" 200 649
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:49:52] "POST /predict/ HTTP/1.1" 200 136
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:49:52] "POST /predict/ HTTP/1.1" 200 137
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:49:52] "POST /predict/ HTTP/1.1" 200 137
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:49:52] "POST /predict/ HTTP/1.1" 200 137
+[07/Apr/2026 15:49:52,789] - Broken pipe from ('127.0.0.1', 59670)
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:49:53] "GET /status/marketplaces/ HTTP/1.1" 200 649
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:49:56] "GET /status/marketplaces/ HTTP/1.1" 200 649
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:49:58] "GET /status/marketplaces/ HTTP/1.1" 200 649
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:50:02] "GET /status/marketplaces/ HTTP/1.1" 200 649
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:50:05] "GET /status/marketplaces/ HTTP/1.1" 200 649
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:50:08] "GET /status/marketplaces/ HTTP/1.1" 200 649
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:50:10] "GET /status/marketplaces/ HTTP/1.1" 200 649
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:50:14] "GET /status/marketplaces/ HTTP/1.1" 200 649
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:50:17] "GET /status/marketplaces/ HTTP/1.1" 200 649
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:50:20] "GET /status/marketplaces/ HTTP/1.1" 200 649
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:50:23] "GET /status/marketplaces/ HTTP/1.1" 200 649
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:50:26] "GET /status/marketplaces/ HTTP/1.1" 200 649
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:50:29] "GET /status/marketplaces/ HTTP/1.1" 200 649
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:50:32] "GET /status/marketplaces/ HTTP/1.1" 200 649
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:50:34] "GET /status/marketplaces/ HTTP/1.1" 200 649
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:50:38] "GET /status/marketplaces/ HTTP/1.1" 200 649
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:50:41] "GET /status/marketplaces/ HTTP/1.1" 200 649
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:50:43] "GET /status/marketplaces/ HTTP/1.1" 200 649
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:50:47] "GET /status/marketplaces/ HTTP/1.1" 200 649
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:50:50] "GET /status/marketplaces/ HTTP/1.1" 200 649
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:50:53] "GET /status/marketplaces/ HTTP/1.1" 200 649
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:50:56] "GET /status/marketplaces/ HTTP/1.1" 200 649
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:50:59] "GET /status/marketplaces/ HTTP/1.1" 200 649
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:51:01] "GET /status/marketplaces/ HTTP/1.1" 200 649
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:51:05] "GET /status/marketplaces/ HTTP/1.1" 200 649
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:51:07] "GET /status/marketplaces/ HTTP/1.1" 200 649
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:51:11] "GET /status/marketplaces/ HTTP/1.1" 200 649
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:51:14] "GET /status/marketplaces/ HTTP/1.1" 200 649
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:51:16] "GET /status/marketplaces/ HTTP/1.1" 200 649
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:51:19] "GET /status/marketplaces/ HTTP/1.1" 200 649
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:51:22] "GET /status/marketplaces/ HTTP/1.1" 200 649
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:51:26] "GET /status/marketplaces/ HTTP/1.1" 200 649
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:51:29] "GET /status/marketplaces/ HTTP/1.1" 200 649
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:51:32] "GET /status/marketplaces/ HTTP/1.1" 200 649
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:51:34] "GET /status/marketplaces/ HTTP/1.1" 200 649
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:51:38] "GET /status/marketplaces/ HTTP/1.1" 200 649
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:51:41] "GET /status/marketplaces/ HTTP/1.1" 200 649
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:51:44] "GET /status/marketplaces/ HTTP/1.1" 200 649
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:51:46] "GET /status/marketplaces/ HTTP/1.1" 200 649
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:51:50] "GET /status/marketplaces/ HTTP/1.1" 200 649
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:51:52] "GET /status/marketplaces/ HTTP/1.1" 200 649
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:51:56] "GET /status/marketplaces/ HTTP/1.1" 200 649
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:51:59] "GET /status/marketplaces/ HTTP/1.1" 200 649
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:52:01] "GET /status/marketplaces/ HTTP/1.1" 200 649
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:52:05] "GET /status/marketplaces/ HTTP/1.1" 200 649
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:52:08] "GET /status/marketplaces/ HTTP/1.1" 200 649
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:52:11] "GET /status/marketplaces/ HTTP/1.1" 200 649
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:52:14] "GET /status/marketplaces/ HTTP/1.1" 200 649
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:52:17] "GET /status/marketplaces/ HTTP/1.1" 200 649
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:52:20] "GET /status/marketplaces/ HTTP/1.1" 200 649
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:52:23] "GET /status/marketplaces/ HTTP/1.1" 200 649
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:52:26] "GET /status/marketplaces/ HTTP/1.1" 200 649
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:52:29] "GET /status/marketplaces/ HTTP/1.1" 200 649
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:52:32] "GET /status/marketplaces/ HTTP/1.1" 200 649
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:52:34] "POST /predict/ HTTP/1.1" 200 137
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:52:34] "POST /predict/marketplace/ HTTP/1.1" 201 322
+[07/Apr/2026 15:52:34] "POST /predict/marketplace/ HTTP/1.1" 201 318
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:52:34] "GET /status/marketplaces/ HTTP/1.1" 200 643
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:52:34] "GET /status/marketplaces/ HTTP/1.1" 200 643
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:52:38] "GET /status/marketplaces/ HTTP/1.1" 200 643
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:52:41] "GET /status/marketplaces/ HTTP/1.1" 200 643
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:52:44] "GET /status/marketplaces/ HTTP/1.1" 200 643
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:52:47] "GET /status/marketplaces/ HTTP/1.1" 200 643
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:52:49] "GET /status/marketplaces/ HTTP/1.1" 200 643
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:52:53] "GET /status/marketplaces/ HTTP/1.1" 200 643
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:52:56] "GET /status/marketplaces/ HTTP/1.1" 200 643
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:52:59] "GET /status/marketplaces/ HTTP/1.1" 200 643
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:53:02] "GET /status/marketplaces/ HTTP/1.1" 200 643
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:53:05] "GET /status/marketplaces/ HTTP/1.1" 200 643
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:53:08] "GET /status/marketplaces/ HTTP/1.1" 200 643
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:53:09] "POST /predict/ HTTP/1.1" 200 137
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:53:09] "POST /predict/marketplace/ HTTP/1.1" 201 318
+[07/Apr/2026 15:53:09] "POST /predict/marketplace/ HTTP/1.1" 201 322
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:53:09] "GET /status/marketplaces/ HTTP/1.1" 200 649
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:53:11] "GET /status/marketplaces/ HTTP/1.1" 200 649
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:53:14] "GET /status/marketplaces/ HTTP/1.1" 200 649
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:53:17] "GET /status/marketplaces/ HTTP/1.1" 200 649
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:53:19] "GET /status/marketplaces/ HTTP/1.1" 200 649
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:53:23] "GET /status/marketplaces/ HTTP/1.1" 200 649
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:53:26] "GET /status/marketplaces/ HTTP/1.1" 200 649
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:53:29] "GET /status/marketplaces/ HTTP/1.1" 200 649
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:53:32] "GET /status/marketplaces/ HTTP/1.1" 200 649
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:53:34] "GET /status/marketplaces/ HTTP/1.1" 200 649
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:53:38] "GET /status/marketplaces/ HTTP/1.1" 200 649
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:53:41] "GET /status/marketplaces/ HTTP/1.1" 200 649
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:53:42] "POST /predict/ HTTP/1.1" 200 137
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:53:42] "POST /predict/marketplace/ HTTP/1.1" 201 322
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:53:42] "POST /predict/marketplace/ HTTP/1.1" 201 318
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:53:42] "GET /status/marketplaces/ HTTP/1.1" 200 643
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:53:44] "GET /status/marketplaces/ HTTP/1.1" 200 643
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:53:47] "GET /status/marketplaces/ HTTP/1.1" 200 643
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:53:49] "POST /predict/ HTTP/1.1" 200 137
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:53:49] "POST /predict/marketplace/ HTTP/1.1" 201 322
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:53:49] "POST /predict/marketplace/ HTTP/1.1" 201 318
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:53:49] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:53:49] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:53:53] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:53:56] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:53:58] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:54:02] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:54:05] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:54:07] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:54:10] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:54:14] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:54:17] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:54:20] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:54:23] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:54:26] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:54:29] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:54:32] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:54:34] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:54:38] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:54:40] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:54:44] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:54:47] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:54:50] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:54:53] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:54:56] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:54:59] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:55:02] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:55:05] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:55:08] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:55:11] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:55:14] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:55:16] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:55:20] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:55:23] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:55:26] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:55:28] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:55:32] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:55:35] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:55:37] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:55:40] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:55:43] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:55:46] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:55:50] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:55:53] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:55:56] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:55:58] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:56:02] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:56:05] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:56:08] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:56:11] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:56:14] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:56:17] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:56:19] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:56:23] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:56:25] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:56:28] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:56:31] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:56:35] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:56:38] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:56:40] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:56:44] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:56:47] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:56:50] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:56:53] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:56:56] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:56:59] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:57:02] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:57:05] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:57:08] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:57:11] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:57:14] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:57:16] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:57:20] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:57:22] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:57:26] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:57:28] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:57:32] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:57:35] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:57:37] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:57:41] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:57:44] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:57:47] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:57:49] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:57:53] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:57:56] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:57:58] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:58:02] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:58:05] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:58:08] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:58:11] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:58:13] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:58:17] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:58:20] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:58:23] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:58:26] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:58:29] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:58:32] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:58:35] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:58:38] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:58:41] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:58:44] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:58:47] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:58:50] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:58:53] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:58:56] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:58:59] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:59:02] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:59:05] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:59:08] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:59:11] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:59:14] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:59:17] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:59:20] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:59:23] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:59:26] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:59:29] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:59:32] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:59:35] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:59:38] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:59:41] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 15:59:44] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 16:00:20] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 16:01:20] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 16:02:20] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 16:03:20] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 16:26:53] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 16:26:56] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 16:26:59] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 16:27:02] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 16:27:05] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 16:27:08] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 16:27:11] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 16:27:14] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 16:27:17] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 16:27:20] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 16:27:22] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 16:27:26] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 16:27:29] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 16:27:31] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 16:27:35] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 16:27:38] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 16:27:40] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 16:27:44] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 16:27:46] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 16:27:50] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 16:27:53] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 16:27:56] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 16:27:59] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 16:28:02] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 16:28:05] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 16:28:08] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 16:28:11] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 16:28:14] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 16:28:17] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 16:28:20] "GET /status/marketplaces/ HTTP/1.1" 200 639
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+C:\Users\acer\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2749: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+[07/Apr/2026 16:28:23] "GET /status/marketplaces/ HTTP/1.1" 200 639

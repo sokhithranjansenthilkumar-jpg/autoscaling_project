@@ -1,0 +1,28 @@
+{
+  "autoscaling_scenariopreset": 50,
+  "autoscaling_metricsnapshot": 736,
+  "django_migrations": 21,
+  "scenario_groups": [
+    [
+      "Flash crowd",
+      10
+    ],
+    [
+      "Peak spike",
+      10
+    ],
+    [
+      "Quiet traffic",
+      10
+    ],
+    [
+      "Sale hour",
+      10
+    ],
+    [
+      "Weekend rush",
+      10
+    ]
+  ],
+  "latest_snapshot_time": "2026-04-13 16:03:53.256287"
+}

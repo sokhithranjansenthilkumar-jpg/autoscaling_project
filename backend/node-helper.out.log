@@ -1,0 +1,7 @@
+
+> autoscaling-node-helper@1.0.0 start
+> node index.js
+
+Node helper running on http://127.0.0.1:5000
+Django API expected at http://127.0.0.1:8000
+Frontend expected at http://127.0.0.1:3000
