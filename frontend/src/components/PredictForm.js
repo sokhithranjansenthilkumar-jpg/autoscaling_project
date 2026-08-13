@@ -314,6 +314,7 @@ function PredictForm() {
     fetchMarketplaceStatus,
     inputSets,
     inputSetMarketSources,
+    resolveCurrentInstances,
   ]);
 
   const publishMarketplace = useCallback(
