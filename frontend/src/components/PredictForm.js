@@ -288,7 +288,7 @@ function PredictForm() {
                   set.cpu,
                   set.memory,
                   set.latency,
-                  responses[index].instances
+                  resolveCurrentInstances(source, resolveMarketplaceInstances(source))
                 )
                 );
               })
@@ -417,8 +417,7 @@ function PredictForm() {
             setPublishing(true);
             await publishMetric(
               targetSource,
-              normalized,
-              response.instances
+              normalized
             );
             await fetchMarketplaceStatus();
             setMarketplaceError("");
