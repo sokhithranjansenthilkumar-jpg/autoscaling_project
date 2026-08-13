@@ -288,7 +288,7 @@ function PredictForm() {
                   set.cpu,
                   set.memory,
                   set.latency,
-                  resolveMarketplaceInstances(source)
+                  responses[index].instances
                 )
                 );
               })
@@ -337,10 +337,14 @@ function PredictForm() {
       try {
         setPublishing(true);
         const normalizedInput = normalizeInputs(selectedInput);
+        const predictedVal = results.find(r => r && r.inputIndex === sourceInputIndex + 1)?.instances;
+        const instancesToSend = (predictedVal != null)
+          ? predictedVal
+          : resolveMarketplaceInstances(source);
         await publishMetric(
           source,
           normalizedInput,
-          resolveMarketplaceInstances(source)
+          instancesToSend
         );
         await fetchMarketplaceStatus();
       } catch (err) {
@@ -351,7 +355,7 @@ function PredictForm() {
         setPublishing(false);
       }
     },
-    [fetchMarketplaceStatus, inputSetMarketSources, inputSets, publishMetric]
+    [fetchMarketplaceStatus, inputSetMarketSources, inputSets, publishMetric, results]
   );
 
   useEffect(() => {
@@ -389,7 +393,12 @@ function PredictForm() {
         );
 
         setResults((current) => {
-          const nextResults = [...current];
+          const nextResults = Array(5).fill(null);
+          current.forEach((r) => {
+            if (r && r.inputIndex) {
+              nextResults[r.inputIndex - 1] = r;
+            }
+          });
           nextResults[index] = {
             ...response,
             inputIndex: index + 1,
@@ -399,7 +408,7 @@ function PredictForm() {
             requestedLatency: normalized.latency,
             calculatedAt: new Date().toLocaleTimeString(),
           };
-          return nextResults.filter(Boolean);
+          return nextResults;
         });
         setLastUpdated(new Date().toLocaleTimeString());
 
@@ -409,7 +418,7 @@ function PredictForm() {
             await publishMetric(
               targetSource,
               normalized,
-              resolveMarketplaceInstances(targetSource)
+              response.instances
             );
             await fetchMarketplaceStatus();
             setMarketplaceError("");
@@ -673,12 +682,12 @@ function PredictForm() {
           <div className="chart-title">Executive Output</div>
           <div className="chart-meta">High-level tiles with essential scaling details.</div>
         </div>
-        {results.length > 0 ? (
+        {results.filter(Boolean).length > 0 ? (
           <div className="result-box">
             <div className="result-tag">Recommended Outputs</div>
             <h3>Prediction results by input set</h3>
             <div className="result-grid">
-              {results.map((result) => (
+              {results.filter(Boolean).map((result) => (
                 <div key={`result-${result.inputIndex}`} className="result-set-card">
                   <div className="result-set-head">
                     <span className="result-label">
