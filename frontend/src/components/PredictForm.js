@@ -676,32 +676,61 @@ function PredictForm() {
             <div className="result-tag">Recommended Outputs</div>
             <h3>Prediction results by input set</h3>
             <div className="result-grid">
-              {results.filter(Boolean).map((result) => (
-                <div key={`result-${result.inputIndex}`} className="result-set-card">
-                  <div className="result-set-head">
-                    <span className="result-label">
-                      Input Set {result.inputIndex}
-                      {inputSetMarketSources[result.inputIndex - 1]
-                        ? ` -> ${inputSetMarketSources[result.inputIndex - 1].toUpperCase()}`
-                        : ""}
-                    </span>
-                    <div className={`result-state state-${result.instances > 2 ? "up" : result.instances === 2 ? "steady" : "down"}`}>
-                      {result.instances > 2
-                        ? "Scale Up Window"
-                        : result.instances === 2
-                          ? "Stable Window"
-                          : "Lean Window"}
+              {results.filter(Boolean).map((result) => {
+                const source = inputSetMarketSources[result.inputIndex - 1];
+                const currentInstances = source ? marketStatus[source]?.snapshot?.instances : null;
+                const currentVal = currentInstances != null ? Number(currentInstances) : null;
+
+                let stateClass = "steady";
+                let scalingLabel = "Stable";
+
+                if (currentVal != null) {
+                  const delta = result.instances - currentVal;
+                  if (delta > 0) {
+                    stateClass = "up";
+                    scalingLabel = "Scale Up";
+                  } else if (delta < 0) {
+                    stateClass = "down";
+                    scalingLabel = "Scale Down";
+                  } else {
+                    stateClass = "steady";
+                    scalingLabel = "Stable";
+                  }
+                } else {
+                  if (result.instances > 2) {
+                    stateClass = "up";
+                    scalingLabel = "Scale Up";
+                  } else if (result.instances === 2) {
+                    stateClass = "steady";
+                    scalingLabel = "Stable";
+                  } else {
+                    stateClass = "down";
+                    scalingLabel = "Scale Down";
+                  }
+                }
+
+                return (
+                  <div key={`result-${result.inputIndex}`} className="result-set-card">
+                    <div className="result-set-head">
+                      <span className="result-label">
+                        Input Set {result.inputIndex}
+                        {source ? ` -> ${source.toUpperCase()}` : ""}
+                      </span>
+                      <div className={`result-state state-${stateClass}`}>
+                        {scalingLabel}
+                      </div>
                     </div>
+                    <strong className="result-action">{result.action}</strong>
+                    <span className="result-meta">Users: {result.requestedUsers}</span>
+                    <span className="result-meta">CPU: {result.requestedCpu}%</span>
+                    <span className="result-meta">Memory: {result.requestedMemory}%</span>
+                    <span className="result-meta">Latency: {result.requestedLatency} ms</span>
+                    <span className="result-meta">Current Instances: {currentVal != null ? currentVal : "N/A"}</span>
+                    <span className="result-meta">Recommended: {result.instances} instance(s)</span>
+                    <span className="result-meta">Updated: {result.calculatedAt}</span>
                   </div>
-                  <strong className="result-action">{result.action}</strong>
-                  <span className="result-meta">Users: {result.requestedUsers}</span>
-                  <span className="result-meta">CPU: {result.requestedCpu}%</span>
-                  <span className="result-meta">Memory: {result.requestedMemory}%</span>
-                  <span className="result-meta">Latency: {result.requestedLatency} ms</span>
-                  <span className="result-meta">Recommended: {result.instances} instance(s)</span>
-                  <span className="result-meta">Updated: {result.calculatedAt}</span>
-                </div>
-              ))}
+                );
+              })}
             </div>
             <div className="marketplace-actions">
               {marketSources.map((source) => (
