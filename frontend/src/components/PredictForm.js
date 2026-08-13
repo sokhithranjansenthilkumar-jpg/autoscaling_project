@@ -468,17 +468,6 @@ function PredictForm() {
         </div>
       </div>
 
-      <section className="executive-hero-shell">
-        <div className="executive-hero executive-hero-full">
-          <div className="executive-chip">Output 1 of 1</div>
-          <h2>Autoscaling Summary</h2>
-          <p>
-            A cleaner summary page with quick metrics for infrastructure load,
-            prediction output, and marketplace sync from the same autoscaling
-            model.
-          </p>
-        </div>
-      </section>
 
       <div className="summary-grid">
         <div className="summary-card">
